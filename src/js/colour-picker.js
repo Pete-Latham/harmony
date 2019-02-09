@@ -1,6 +1,6 @@
 ((d, w) => {
   let square = d.getElementById( "picker" );
-  let compArea = d.getElementById( "compColourArea" );
+  let compArea = d.getElementById( "colourArea" );
   let monoArea = d.getElementById( "monoColourArea" );
   let splitArea = d.getElementById( "splitCompColourArea" );
   let logousArea = d.getElementById( "logousColourArea" );

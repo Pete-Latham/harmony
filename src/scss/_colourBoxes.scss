@@ -1,12 +1,21 @@
 .colourBox {
-  width: 150px;
-  height: 150px;
+  width: 3em;
+  height: 3em;
   border-radius: 15px;
   background-color: #333;
   display: inline-block;
-  margin: 15px;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .colourArea {
-  width: 800px;
+  width: 25em;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.outputs {
+
 }
